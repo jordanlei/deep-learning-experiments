@@ -1,2 +1,2 @@
-# deep-learning-experiments
+# Deep Learning Experiments
 Deep Learning Experiments and Quick Exercises
